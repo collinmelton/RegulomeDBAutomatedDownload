@@ -1,0 +1,5 @@
+#
+# exactly 3 rows without data including col names row below
+chrom pos
+1	120001
+3	150002
